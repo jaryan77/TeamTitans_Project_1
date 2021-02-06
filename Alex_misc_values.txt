@@ -1,0 +1,25 @@
+r-values:
+1)	Hepatitis B Immunization (among 1-year-olds (%)) vs. Life Expectancy
+    a)	Mean dataset r-value: .20
+    b)	NaN = 0 r-value: .22
+    c)	99
+
+2)	Polio Immunization (among 1-year-olds (%)) vs. Life Expectancy
+    a)	Mean dataset r-value: .46
+    b)	NaN = 0 r-value: .42
+    c)	Max Value: 99
+
+3)	Diphtheria Immunization (among 1-year-olds (%)) vs. Life Expectancy
+    a)	Mean dataset r-value: .475
+    b)	NaN = 0 r-value: .44
+    c)	Max value: 99
+
+4)	HIV/AIDS (deaths per 1000 live births) vs. Life Expectancy
+    a)	Mean dataset r-value: - .55
+    b)	NaN = 0 r-value: - .50
+    c)	Max Value: 50.6
+
+5)	Measles (reported cases per 1000) vs. Life Expectancy
+    a)	Mean dataset r-value: - .15
+    b)	NaN = 0 r-value: - .14
+    c)	Max Value: 212,183
